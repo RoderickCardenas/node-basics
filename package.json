@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/RoderickCardenas/node-basics/issues"
   },
-  "homepage": "https://github.com/RoderickCardenas/node-basics#readme"
+  "homepage": "https://github.com/RoderickCardenas/node-basics#readme",
+  "dependencies": {
+    "uuid": "^3.4.0"
+  }
 }
