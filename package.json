@@ -18,5 +18,8 @@
   "homepage": "https://github.com/RoderickCardenas/node-basics#readme",
   "dependencies": {
     "uuid": "^3.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
   }
 }
