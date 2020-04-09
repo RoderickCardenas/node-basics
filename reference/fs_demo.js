@@ -37,11 +37,11 @@ const path = require('path')
 // })
 
 //Rename File
-fs.rename(
-  path.join(__dirname, '/test', 'hello.txt'),
-  path.join(__dirname, '/test', 'helloWorld.txt'),
-  err => {
-    if (err) throw err
-    console.log('File renamed')
-  }
-)
+// fs.rename(
+//   path.join(__dirname, '/test', 'hello.txt'),
+//   path.join(__dirname, '/test', 'helloWorld.txt'),
+//   err => {
+//     if (err) throw err
+//     console.log('File renamed')
+//   }
+// )
